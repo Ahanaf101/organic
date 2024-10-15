@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Inter", sans-serif;
+}
+a{
+    text-decoration: none;
+}
+p{
+    margin: 0;
+    padding: 0;
+    text-align: justify;
+}
+ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100% !important;
+}
+i{
+    cursor: pointer;
+}
+/* Default Design */
+span{
+    font-weight: 700;
+}
+.logo a{
+    font-family: "Rye", sans-serif;
+    color: #477018;
+}
+.button a{
+    display: inline-block;
+    padding: 14px 50px;
+    border-radius: 10px;
+    background-color: #F47606;
+    color: white;
+    font-weight: 700;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.thumb{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    position: relative;
+    border-radius: 30px;
+}
+.thumb .overlay{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: rgba(0, 0, 0, 0.3);
+    border-radius: 30px;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.thumb:hover > .overlay{
+    display: flex;
+}
+.thumb .overlay .icon{
+    height: 60px;
+    width: 60px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: white;
+}
+.thumb .overlay .icon:hover{
+    background-color: red;
+    color: white;
+}
+.star i{
+    color: #477018;
+}
+/* default design */
+
+
+
+header{
+    margin: 0;
+    color: white;
+    position: sticky;
+    width: 100%;
+    top: 0;
+    z-index: 999;
+}
+header .note h5{
+    margin: 0;
+}
+header .note{
+    padding: 10px 0;
+    background-color: #477018;
+}
+nav{
+    background-color: white;
+}
+nav ul{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+nav ul li{
+    padding: 0 20px;
+}
+nav ul li a{
+    color: black !important;
+    font-weight: 700 !important;
+}
+nav .shop{
+    display: flex;
+    gap: 20px;
+}
+nav .shop a{
+    color: black;
+}
+nav .search{
+    position: relative;
+}
+nav .search input{
+    position: absolute;
+    right: 30px;
+    padding: 0 10px;
+    text-align: center;
+    display: none;
+}
