@@ -1,0 +1,57 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif;
+
+}
+a{
+    text-decoration: none;
+}
+.oe  a{
+    color: #000;
+}
+#xd {
+  padding-right: 16px;
+  transition: .6s;
+}
+#xd:hover{
+   color: #477018;
+} 
+#pd {
+   transition: .6s;
+  }
+#pd:hover{
+    color: #477018;
+ } 
+ 
+
+
+.fj p{
+    padding: 16px 0;
+    color: white;
+}
+.fj {
+    background-color: #477018;
+}
+.nav-item{
+    padding: 0 25px;
+}
+.nav-item a{
+    color: #000 ;
+    transition: .5s;
+}
+.nav-item a:hover{
+    color: #477018 !important;
+}
+.toy{
+    background: url(../img1/vegetable.png) no-repeat;
+    background-size: cover;
+    width: 50%;
+    margin-left: 1000px;
+}
+.toy p{
+    padding: 300px 0;
+}
+.poy{
+    width: 50%;
+}

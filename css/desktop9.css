@@ -1,0 +1,402 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: "Inter", sans-serif;
+}
+/* navbar part start */
+.sd p{
+    padding: 16px 0;
+    color: white;
+}
+.sd{
+    background-color: #477018;
+}
+a{
+    text-decoration: none;
+}
+.oe  a{
+    color: #000;
+}
+#xd {
+  padding-right: 16px;
+  transition: .6s;
+}
+#xd:hover{
+   color: #477018;
+} 
+#pd {
+   transition: .6s;
+  }
+#pd:hover{
+    color: #477018;
+ } 
+ 
+
+
+.fj p{
+    padding: 16px 0;
+    color: white;
+}
+.fj {
+    background-color: #477018;
+}
+.nav-item{
+    padding: 0 25px;
+}
+.nav-item a{
+    color: #000 ;
+    transition: .5s;
+}
+.nav-item a:hover{
+    color: #477018 !important;
+}
+/* navbar part end */
+/* section sda start */
+
+.pol{
+    background: url(../img3/col.png) no-repeat;
+    background-size: cover;
+}
+.pol h2{
+    padding-top: 132px;
+    padding-bottom: 20px;
+    padding-left:62px ;
+    padding-right:50px ;
+    font-size: 70px;
+    font-weight: 700;
+}
+.pol  span{
+    color: #F47606;
+}
+.pol p{
+    padding-left: 62px;
+    padding-right: 94px;
+    font-size: 16px;
+    color: #676767;
+}
+.lll a{
+    padding: 14px 50px;
+    background-color: #477018;
+    color: white;
+   
+    border-radius: 10px;
+}
+.lll{
+    padding-bottom: 183px;
+    padding-left: 62px;
+    padding-top: 20px;
+}
+
+#sda{
+    padding-top: 41px;
+}
+.cdf{
+    background: url(../img3/sdf.png) no-repeat;
+    background-size: cover;
+}
+.sxx a{
+    padding: 16px 50px;
+    background-color: #477018;
+    color: white;
+    border-radius: 10px;
+   
+    
+}
+.cdf  h2{
+    padding-left:320px ;
+    padding-top: 43px;
+    padding-bottom: 20px;
+
+}
+.sxx {
+    padding-left: 320px;
+    padding-bottom:205px ;
+    padding-right: 108px;
+}
+.df{
+    display: flex;
+    
+}
+.boi{
+   margin-left: 50px;
+    margin-top: 24px;
+
+}
+.boe{
+    margin-top: 24px;
+}
+.cdf h2{
+    font-weight: 700;
+}
+/* section sda end */
+/* section fook start */
+#fook h6{
+    padding-top:67px ;
+    padding-left:53px ;
+    padding-right: 237px;
+    padding-bottom: 10px;
+}
+#fook p{
+    padding-left: 53px;
+    font-size: 20px;
+    font-weight: 700;
+    padding-right: 104px;
+    padding-bottom: 10px;
+}
+#fook h4{
+    padding-left: 53px ;
+    font-size: 20px;
+    font-weight: 600;
+    transition: .6s;
+    padding-bottom: 40px;
+}
+
+#fook h4:hover{
+    color: #F47606;
+    
+}
+#fook hr{
+    width: 100px;
+    left: 0;
+    bottom:0;
+    transform: translate(0,-10px);
+    
+}
+#fook {
+    padding-top: 130px;
+}
+
+
+.fjd{
+    background: url(../img3/er.png) no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+    
+}
+.kol{
+    background: url(../img3/hj.png) no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+.node{
+    background: url(../img3/sd.png) no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+
+
+/* section fook end */
+
+.fd p{
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+    padding-top: 130px;
+    padding-bottom: 10px;
+}
+#text1 a{
+    color: black;
+    text-align: center;
+      padding: 0 40px;
+}
+.dfs{
+    padding-left: 730px;
+    display: flex;
+}
+#text1 a{
+    transition: .5s;
+}
+#text1 a:hover{
+    color: #F47606;
+}
+/* section food  start*/
+.llf{
+    text-align: center;
+}
+#froot{
+    padding-top: 50px;
+}
+.llf p{
+    padding-top: 30px;
+  
+}
+.llf h6{
+    padding-top: 12px;
+    padding-bottom: 24px;
+}
+
+
+/* section food end */
+/* section banner2 start */
+#banner2 {
+    padding-top: 130px;
+
+}
+#banner2 h3{
+   font-size: 45px;
+   font-weight: 700;
+   padding-top:104px ;
+   padding-left:92px ;
+   padding-bottom:20px ;
+}
+#banner2 p{
+    color: #676767;
+    padding-left: 92px;
+    padding-bottom: 30px;
+    padding-right: 634px;
+}
+#banner2 a{
+    padding: 14px 50px;
+    color: white;
+    background-color: #477018;
+    border-radius: 10px;
+}
+.aaf{
+    padding-bottom: 92px;
+    padding-left: 92px;
+}
+.dfl{
+    background: url(../img3/banner2.png) no-repeat;
+    background-size: cover;
+    border-radius: 10px;
+}
+/* section banner2 end */
+/* section sg start */
+.skg p{
+    padding-top: 130px;
+    padding-bottom: 50px;
+    font-size: 35px;
+    font-weight: 700;
+    text-align: center;
+}
+/* section sg end */
+/* section fruit3 start */
+
+.sb{
+    background: url(../img3/rename.png) no-repeat;
+    background-size: cover;
+   
+}
+.srk{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+   margin-bottom: 20px;
+    padding: 0 25px;
+}
+.loh a{
+    text-align: center;
+    padding-top: 11px;
+    padding-left: 11px;
+    padding-right: 11px;
+    color: #000;
+    background-color: white;
+}
+.loh{
+  display: flex;
+  flex-direction: row;
+align-items: center;
+justify-content: center;
+    
+}
+.loh a{
+    border-radius: 10px;
+    transition: .6s;
+}
+.loh a:hover{
+    color: #F47606;
+}
+.bol{
+    
+    text-align: center;
+}
+.bol h6{
+    padding-top: 30px;
+ 
+    font-size: 25px;
+    font-weight: 600;
+}
+.bol h5{
+    padding-top: 12px;
+    padding-bottom: 12px;
+    font-weight: 600;
+}
+.bol  a{
+    padding: 12px 50px;
+    background-color: #F47606;
+    color: white;
+    border-radius: 10px;
+
+}
+.nnn{
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+/* section fruit3 end */
+.dx p{
+  font-size: 35px;
+  font-weight: 700;
+      padding-top: 130px;
+      padding-bottom: 50px;
+}
+/* section fruit4 start */
+.yof {
+   text-align: center; 
+}
+.yof p{
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: 600;
+}
+.yof h4{
+    padding-top: 12px;
+    font-size: 20px;
+}
+.yof span{
+    color: #676767;
+    font-size: 20px;
+}
+
+/* section fruit4 end */
+.jui p{
+    font-size: 35px;
+    font-weight: 700;
+    padding-top: 130px;
+    padding-bottom: 50px;
+}
+#fruit4 span hr{
+    width: 100px;
+    left: 0px;
+    bottom:0;
+    transform: translate(0,-30px);
+}
+/* section fruit5 start */
+.dk{
+    background: url(../img3/puchki1.png) no-repeat;
+    background-size: cover;
+}
+.dk p{
+    color: #F47606;
+}
+.dk  h5{
+    font-size: 30px;
+    font-weight: 600;
+}
+.dk a{
+    color: #000;
+    transition: .6s;
+}
+.dk a:hover{
+    color: #F47606;
+}
+.dk hr{
+    width: 100px;
+    left: 0;
+    bottom:0;
+    transform: translate(0,-20px);
+   
+}
+
+/* section fruit5 end */
